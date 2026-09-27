@@ -47,6 +47,7 @@ The runtime that loads weights and serves inference. Model-agnostic means: works
 
 Route requests across models / runtimes / providers. The Funnel layer in a model-agnostic stack.
 
+- **[APIClaw](https://apiclaw.biz/)** - Flat-rate OpenAI-compatible AI API gateway ($19-$129/mo) with free 50-request trial; one endpoint for Claude, OpenAI, Kimi, Qwen, DeepSeek, GLM.
 - **[LiteLLM](https://github.com/BerriAI/litellm)** — Unified API across 100+ LLM providers. The reference for client-side routing.
 - **[OpenRouter](https://openrouter.ai/)** — Hosted multi-provider router with OpenAI-compatible API.
 - **[Portkey](https://github.com/Portkey-AI/gateway)** — Gateway with fallback, retry, load-balancing, semantic caching.
