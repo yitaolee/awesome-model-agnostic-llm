@@ -124,6 +124,7 @@ Measure and control LLM spend.
 - **[OpenCost](https://github.com/opencost/opencost)** — Kubernetes cost monitoring.
 - **[Helicone cost dashboards](https://github.com/Helicone/helicone)** — Per-application LLM cost.
 - **[Langfuse cost tracking](https://langfuse.com/docs/integrations/litellm)** — Per-trace cost.
+- **[ModelBenchmark](https://modelbenchmark.io)** — Independent model rankings, prices and context windows from public benchmarks.
 
 ## Adjacent reading
 
